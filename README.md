@@ -1,2 +1,2 @@
 # SocialDistancingDetection
-(https://github.com/ahmed-dev-tech/SocialDistancingDetection/blob/main/out/Capture.PNG) 
+![Output](https://github.com/ahmed-dev-tech/SocialDistancingDetection/blob/main/out/Capture.PNG) 
